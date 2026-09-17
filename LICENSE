@@ -1,0 +1,69 @@
+AYASCELL NON-COMMERCIAL PUBLIC LICENSE (ANCPL v1.0)
+==============================================================================
+Project   : Ayascell MuhurOS
+Copyright : (c) 2026 Ayascell Security Lab <https://github.com/ayascell>
+All rights reserved.
+
+==============================================================================
+[TR] ÖZET: TİCARİ KULLANIM KESİNLİKLE YASAKTIR.
+Kişisel, eğitim, güvenlik araştırması ve bireysel cihaz koruma amaçlı kullanım, 
+inceleme ve değiştirme serbesttir. Kodun veya sistemin herhangi bir parçasının 
+ücret karşılığı satılması, ticari donanımlarla paketlenmesi veya izinsiz 
+ticarileştirilmesi yasaktır.
+
+NOT / ARCH LINUX KERNEL NOTICE:
+MuhurOS çekirdek altyapısında resmi Arch Linux LTS çekirdeği (vmlinuz) kullanılmıştır.
+Linux çekirdeği, Linus Torvalds ve Linux topluluğu tarafından GNU GPL v2 ile lisanslıdır.
+Bu ANCPL v1.0 lisansı; Ayascell MuhurOS C grafik motoru, sayaç, arayüz ve kurulum 
+yazılımlarını kapsar.
+==============================================================================
+
+TERMS AND CONDITIONS
+
+1. PERMITTED USES (NON-COMMERCIAL ONLY)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, study, modify, and distribute the Software for personal, educational,
+research, and non-commercial purposes only, subject to the following conditions:
+
+  a) Personal & Household Use: You may use the Software to seal, protect,
+     or manage personal and family hardware.
+  b) Educational & Research: You may inspect, modify, and learn from the
+     source code for non-profit and academic research.
+  c) Redistribution: You may redistribute exact or modified copies of the
+     source code, provided that:
+       - All copies retain this exact License and the original Copyright notice.
+       - Any modified files carry prominent notices stating that you changed them.
+       - No fee, payment, or commercial consideration is charged or received.
+
+2. COMMERCIAL USE RESTRICTIONS (STRICTLY PROHIBITED)
+ANY COMMERCIAL USE, MONETIZATION, OR FOR-PROFIT EXPLOITATION OF THIS SOFTWARE
+IS STRICTLY PROHIBITED WITHOUT PRIOR EXPLICIT WRITTEN PERMISSION FROM AYASCELL.
+
+Prohibited commercial activities include, but are not limited to:
+  a) Selling, leasing, renting, or sublicensing the Software or any modified version.
+  b) Bundling, pre-installing, or distributing the Software on commercial hardware,
+     computers, or storage devices sold for profit.
+  c) Providing paid commercial services, paid technical support, or paid kiosk/lockdown
+     solutions based wholly or partially on this Software.
+  d) Using the Software within a commercial enterprise to secure proprietary company
+     assets without obtaining a commercial license.
+
+For commercial licensing inquiries, contact Ayascell directly via GitHub.
+
+3. ATTRIBUTION REQUIREMENT
+All distributions of the Software, whether in source or binary form, must reproduce
+the above copyright notice, this list of conditions, and the following disclaimer
+in the documentation and/or other materials provided with the distribution.
+
+4. NO WARRANTY & LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE (INCLUDING BUT NOT LIMITED TO HARDWARE SHUTDOWN,
+FIRMWARE MODIFICATIONS, OR NVRAM ADJUSTMENTS).
+
+==============================================================================

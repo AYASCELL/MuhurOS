@@ -1,0 +1,3 @@
+-std=c11
+-Wall
+-D_GNU_SOURCE

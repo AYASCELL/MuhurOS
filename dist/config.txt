@@ -1,0 +1,23 @@
+# =========================================================
+#   Ayascell MuhurOS Yapılandırma Dosyası (config.txt)
+#   Bu dosyayı Not Defteri ile kolayca düzenleyebilirsiniz.
+# =========================================================
+
+# Geri Sayım Hedef Bitiş Tarihi (Yıl - Ay - Gün)
+hedef_yil=2026
+hedef_ay=11
+hedef_gun=1
+
+# Ekranda Bekleme Süresi (Saniye cinsinden, 180 = 3 Dakika)
+kapanma_suresi=180
+
+# F2 Yetkili Giriş PIN Kodu
+pin=1923
+
+# Ana Ekran Başlığı
+baslik=BU BİLGİSAYAR GÜVENLİK PROTOKOLÜ GEREĞİNCE MÜHÜRLÜDÜR
+
+# Mühür Tutanağı Metinleri
+tutanak_baslik=AYASCELL SİSTEM GÜVENLİK VE MÜHÜR PROTOKOLÜ TUTANAĞI
+gerekce=Bu bilgisayar belirlenen süre ve amaç doğrultusunda cihazın güvenliğini sağlamak, yetkisiz müdahaleleri önlemek ve kişisel verileri koruma altına almaktır.
+sonuc=Bu cihaz; hedef tarihe kadar her türlü üçüncü şahıs kurcalaması ve veri transferine karşı mühür altındadır. Sistem birkaç dakika içinde otomatik kapanacaktır.

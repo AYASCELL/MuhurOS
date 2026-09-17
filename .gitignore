@@ -1,0 +1,28 @@
+# Object and temporary files
+*.o
+*.obj
+*.so
+*.a
+*.ppm
+
+# Temporary build rootfs
+initramfs_root/
+/mnt/muhuros_*
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# IDE specific
+.gemini/
+.system_generated/
+scratch/
