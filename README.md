@@ -6,19 +6,16 @@
 [![Architecture](https://img.shields.io/badge/Size-~19%20MB-emerald.svg)]()
 [![Display](https://img.shields.io/badge/Display-Linux%20Framebuffer%20%2Fdev%2Ffb0-cyan.svg)]()
 
-Cihaz ve veri güvenliğini sağlamak, yetkisiz üçüncü şahıs kurcalamalarını engellemek, vatani görev, odaklanma karantinası veya tatil süreçlerinde bilgisayar açıldığında **tam ekran mühür kaşesi, resmi tutanak ve canlı hedef süre sayacı** sunan; şifre korumalı yönetim paneli barındıran ve **1-2 saniyede doğrudan açılan** bağımsız mikro işletim sistemi (**~19 MB**).
+Cihaz ve veri güvenliğini sağlamak, yetkisiz üçüncü şahıs kurcalamalarını engellemek, vatani görev, odaklanma karantinası veya tatil süreçlerinde bilgisayar açıldığında **resmi güvenlik mühür ekranı, tutanak ve canlı hedef süre sayacı** sunan; şifre korumalı yönetim paneli barındıran ve **1-2 saniyede doğrudan açılan** bağımsız mikro işletim sistemi (**~19 MB**).
 
 ---
 
 ## 📸 Ekran Görüntüleri
 
-### 1. Ana Mühür Kiosk Ekranı (1280x800 Framebuffer)
 ![Ana Mühür Ekranı](docs/screenshots/main_screen.png)
 
-### 2. [1] Resmi Mühür Tutanağı ve Hüküm Modalı
 ![Mühür Tutanağı Modalı](docs/screenshots/tutanak_modal.png)
 
-### 3. [F2] 1923 PIN Korumalı Yönetici ve Canlı Düzenleme Paneli
 ![Yönetici Giriş Modalı](docs/screenshots/pin_modal.png)
 
 ---
