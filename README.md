@@ -22,15 +22,15 @@ Cihaz ve veri güvenliğini sağlamak, yetkisiz üçüncü şahıs kurcalamalar�
 
 ## 🌟 Neden Ayascell MuhurOS?
 
-| Özellik | Geleneksel mkarchiso / Ubuntu ISO | Ayascell MuhurOS |
+| Özellik | Ayascell MuhurOS |
 | :--- | :---: | :---: |
-| **Çekirdek Altyapısı** | Şişirilmiş Ağır Dağıtım Çekirdeği | **Resmi Arch Linux LTS Çekirdeği (Optimize & Minimalist)** |
-| **Toplam Boyut** | ~1.8 GB - 2.5 GB (Ağır) | **Sadece ~19 MB (100 kat daha hafif!)** |
-| **Açılış Hızı** | 30 - 60 saniye (systemd, X11, Display Manager) | **1 - 2 saniye (Anında Framebuffer)** |
-| **Donanım Kapatma** | Ağır servislerin kapanması beklenir | **ACPI S5 (`reboot: Power down`) ile %100 temiz donanımsal güç kesme** |
-| **Dell G15 / Modern EC Uyumu** | Saf UEFI reset döngüye girer | **Linux ACPI AML (`\_PTS(5)`) işletilir; EC kapanır** |
-| **Taşınabilirlik** | Format atar, disk bölümlerini riske atabilir | **Format atmaz, USB veya EFI'ye atıldığı gibi çalışır** |
-| **Yapılandırma** | Kod derleme / ISO yeniden üretme | **`config.txt` dosyasını Not Defteri ile aç & düzenle** |
+| **Çekirdek Altyapısı** | **Resmi Arch Linux LTS Çekirdeği (Optimize & Minimalist)** |
+| **Toplam Boyut** | **Sadece ~19 MB (100 kat daha hafif!)** |
+| **Açılış Hızı** | **1 - 2 saniye (Anında Framebuffer)** |
+| **Donanım Kapatma** | **ACPI S5 (`reboot: Power down`) ile %100 temiz donanımsal güç kesme** |
+| **Dell G15 / Modern EC Uyumu** | **Linux ACPI AML (`\_PTS(5)`) işletilir; EC kapanır** |
+| **Taşınabilirlik** | **Format atmaz, USB veya EFI'ye atıldığı gibi çalışır** |
+| **Yapılandırma** | **`config.txt` dosyasını Not Defteri ile aç & düzenle** |
 
 ---
 
