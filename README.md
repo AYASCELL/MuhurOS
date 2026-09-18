@@ -23,7 +23,7 @@ Cihaz ve veri güvenliğini sağlamak, yetkisiz üçüncü şahıs kurcalamalar�
 ## 🌟 Neden Ayascell MuhurOS?
 
 | Özellik | Ayascell MuhurOS |
-| :--- | :---: | :---: |
+| :--- | :---: |
 | **Çekirdek Altyapısı** | **Resmi Arch Linux LTS Çekirdeği (Optimize & Minimalist)** |
 | **Toplam Boyut** | **Sadece ~19 MB (100 kat daha hafif!)** |
 | **Açılış Hızı** | **1 - 2 saniye (Anında Framebuffer)** |
